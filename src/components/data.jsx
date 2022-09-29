@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    name: 'Uzair Khan',
+    name: 'Bertie Yates',
     age: 29,
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
@@ -25,7 +25,7 @@ export default [
   },
   {
     id: 4,
-    name: 'Sean Walsh',
+    name: 'Uzair Khan',
     age: 34,
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
